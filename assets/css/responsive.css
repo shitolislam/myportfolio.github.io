@@ -1,5 +1,14 @@
-@media(max-width: 575px){
+@media(max-width: 380px){
     html {
         font-size: 15px;
+    }
+    #About .fa{
+        font-size: 20px;
+    }
+    .media-body h3 {
+        font-size: 50px;
+    }
+    .media-body {
+        font-size: 10px;
     }
 }
